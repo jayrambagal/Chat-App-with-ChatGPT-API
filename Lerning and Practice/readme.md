@@ -12,3 +12,10 @@ npm install react-chat-engine-advanced
 * All the data-storage, hosting, scaling and computing has been abstracted into Chat Engine's Chat Servers.
 * This means that you don't have to maintain any backend code while adding Chat into your app.
 * When you setup a Project on chatengine you get your own Chat Server instance.
+
+### 3. How it works
+* All the data-storage, hosting, scaling and computing has been abstracted into Chat Engine's Chat Servers.
+* This means that you don't have to maintain any backend code while adding Chat into your app.
+* Let's look at how the Chat Server fits into the overall architecture.
+
+  <img src="https://chat-engine-assets.s3.amazonaws.com/docs/server/chat-server-role-min.png" width="650" />
